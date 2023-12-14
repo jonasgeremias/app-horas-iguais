@@ -28,15 +28,12 @@ const HorasComponent = () => {
   };
 
   return (
-    <Container maxWidth="sm">
+    <Container maxWidth="md">
       <Box mt={4}>
-
-        
-        
         <Grid container spacing={2} justifyContent="center">
         <Grid item xs={12} p>
-          <Typography variant="h2" align="center">
-            Qual é a hora ?
+          <Typography variant="h4" align="center">
+            Horas Iguais e Invertidas. Digite e clique em procurar.
           </Typography>
         </Grid>
         
