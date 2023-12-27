@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/app-horas-iguais/static/js/main.c9da4688.js",
+    "main.js": "/app-horas-iguais/static/js/main.f1bb0c9b.js",
     "static/js/787.a1c97dab.chunk.js": "/app-horas-iguais/static/js/787.a1c97dab.chunk.js",
     "index.html": "/app-horas-iguais/index.html",
-    "main.c9da4688.js.map": "/app-horas-iguais/static/js/main.c9da4688.js.map",
+    "main.f1bb0c9b.js.map": "/app-horas-iguais/static/js/main.f1bb0c9b.js.map",
     "787.a1c97dab.chunk.js.map": "/app-horas-iguais/static/js/787.a1c97dab.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c9da4688.js"
+    "static/js/main.f1bb0c9b.js"
   ]
 }
